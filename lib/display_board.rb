@@ -12,8 +12,4 @@ def display_board
   puts "   |   |   "
 end
 
-def display_board(board)
-  puts board
-end
-
-puts display_board(board)
+display_board
