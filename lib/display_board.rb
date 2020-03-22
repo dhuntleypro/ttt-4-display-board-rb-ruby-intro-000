@@ -4,8 +4,8 @@
 
 board = [" "," "," "," "," "," "," "," "," "]
 
-def display_board(board)
-  puts "   |   |   "
+def display_board
+  puts "board[0]" + "|" + "board[0]"  + "|" +  
   
   puts "-----------"
   
